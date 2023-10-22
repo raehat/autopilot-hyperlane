@@ -22,7 +22,8 @@ and potential errors associated with such deployments. Moreover, AutoPilot Hyper
 # HOW TO RUN ON LOCAL MACHINE
 
 1) copy the git url
-2) open terminal and tyoe
+2) open terminal and type
+   
    ```
    git clone <git-repo-url>
    cd autopilot-hyperlane
@@ -31,18 +32,20 @@ and potential errors associated with such deployments. Moreover, AutoPilot Hyper
    npm install
    npm start
    ```
-3) once react aoo is running, now you need to run the server
+3) once react app is running, now you need to run the server
 4) open terminal
+   
    ```
    cd se
    node ind.js
    ```
 5) If working with local chains, please install foundry and use forge
-6) To start a new local node, open terminal adn type
+6) To start a new local node, open terminal and type
+   
    ```
    anvil
    ```
 7) Transfer funds to account if no funds are present
 
-That's it. This is just the beginning, we can add more complexity to this product and make it more useful. Feel free to communicate with me if you have any ideas or open a new issue!
+That's it! This is just the beginning, we can add more complexity to this product and make it more useful. Feel free to communicate with me if you have any ideas or open a new issue!
    
