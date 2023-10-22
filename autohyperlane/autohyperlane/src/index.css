@@ -1,0 +1,41 @@
+body {
+  background-image: url(assets/autohbg.png);
+  color: white;
+}
+
+#card1 {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  background-color: rgb(37, 37, 37);
+}
+
+#card1header {
+  color: white;
+  text-align: center;
+  font-size: 34px;
+}
+
+#card12 {
+  margin-top: 70px;
+  display: flex;
+}
+
+.buttoncard1 {
+  background-color: black;
+  margin-left: 70px;
+  margin-right: 70px;
+  border-radius: 0px;
+  border: none;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+#btnnext1 {
+  width: 500px;
+}
