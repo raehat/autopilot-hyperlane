@@ -16,5 +16,5 @@ and warp routes across interconnected chains. This remarkable automation tool si
 process of establishing these crucial connections. By doing so, it significantly reduces the manual effort
 and potential errors associated with such deployments. Moreover, AutoPilot Hyperlane takes automation a step further by creating a user-friendly web application URL that provides easy access to the generated warp routes.
 
-#ARCHITECTURE
+# ARCHITECTURE
 ![Group 2](https://github.com/raehat/autopilot-hyperlane/assets/77321971/8af3547f-b1fc-419f-ba88-ea06ccfbd09b)
